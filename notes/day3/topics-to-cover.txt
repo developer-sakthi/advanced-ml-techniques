@@ -1,0 +1,10 @@
+Decision Tree : 
+- Terms - Root node, Internal node, Leaf node, Branch, 
+- Classification vs Regression
+- Feature Importance 
+- Recursive splitting 
+
+Cart vs ID3 :
+- Impurity Measures - Gini, Entropy, Classification Error
+- Information Gain,Entropy vs Gini Index
+- Continuous features handling
