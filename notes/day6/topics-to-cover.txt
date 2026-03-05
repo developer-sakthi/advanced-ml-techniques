@@ -1,5 +1,5 @@
 - Boosting 
-- What are weak learners 
+- What are weak learners ( eg : Decision tree stump )
 - AdaBoost ( Adaptive boosing ) - overview , steps , important hyperparameters
 - XG Boost ( Extreme Gradient Boosting ) - overview , steps , important hyperparameters
 - Handling Imbalanced data ( Adjust class weight , oversampling minority classes, undersampling majority classes )

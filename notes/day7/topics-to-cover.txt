@@ -1,0 +1,7 @@
+- Hierarchical Clustering Overview 
+- Agglomerative clustering vs divisive clustering
+- Dendrograms ( Visualisation )
+- Linkage Criteria ( single linkage , complete linkage , average linkage , ward's linkage )
+
+
+

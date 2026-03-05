@@ -1,0 +1,4 @@
+- dbscan ( Density-Based Spatial Clustering of Applications with Noise )
+- types of points ( core , border , noise )
+- Parameter Tuning & Visualization – Epsilon (ε), MinPts
+- Handling noise and outliers 
