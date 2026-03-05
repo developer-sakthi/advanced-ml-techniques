@@ -1,0 +1,27 @@
+- ensemble learning and key terms ( bagging , boosting , stacking )
+
+- random forest algorithm ( combination of decision trees )
+
+- problems with single decision tree and how random forest fixes it 
+    - improves generalization
+    - reduces overfitting 
+
+- bagging ( Bootstrap aggregation )   
+    - subset selection ( feature randomisation ) 
+    - Bootstrap sampling ( sampling with replacement )
+    - training 
+    - Majority voting ( for classification )
+    - aggregation ( for regression )
+
+- feature importance and how it is calculated 
+
+- OOB ( out of bad ) error estimation
+
+- tuning the hyperparameters using GridSearchCV 
+( n_estimators , max_depth , oob_score , max_features , min_samples_split , min_samples_leaf )
+    
+- Implementing the Random forest model ( Code ) 
+
+- Model evaluation 
+    - for classification ( Accuracy , precision , F1 score , recall )
+    - for regression ( MAE , MSE )
