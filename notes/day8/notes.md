@@ -62,6 +62,8 @@ Poor clustering
 <strong>Finding ε value :</strong> plot the k-distance graph with k=minPts-1 and elbow point gives indication of optimal k value .
 </div>
 
+> parameter name in python : eps
+
 ### 2. MinPts (Minimum Points)
 
 Minimum number of points required to form a core point.
@@ -80,3 +82,5 @@ Example:
 | 2D                | 4                |
 | 3D                | 6                |
 | Higher            | Larger           |
+
+> parameter name in python : min_samples
